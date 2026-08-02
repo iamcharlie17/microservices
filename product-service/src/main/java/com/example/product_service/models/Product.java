@@ -23,5 +23,5 @@ public class Product {
     private String description;
 
     @Field
-    private double price;
+    private Double price;
 }

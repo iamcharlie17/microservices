@@ -1,0 +1,28 @@
+// customer
+{
+    "name": "Alice Johnson",
+    "address": "Dhaka",
+  	"age": 25
+}
+
+// employee
+{
+    "name": "Alice Johnson",
+	"designation": "Software Engineer",
+	"salary": "120000"
+}
+
+
+
+
+
+
+
+// order
+{
+    "customerId": "123",
+  	"productId": "1234",
+  	"quantity": 12,
+  	"employeeId": "12345",
+  	"date": "12-01-2026"
+}

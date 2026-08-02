@@ -25,11 +25,11 @@ public class Order {
     private String productId;
 
     @Field
-    private int quantity;
+    private Integer quantity;
 
     @Field
     private String employeeId;
 
     @Field
-    private LocalDate date;
+    private String date;
 }

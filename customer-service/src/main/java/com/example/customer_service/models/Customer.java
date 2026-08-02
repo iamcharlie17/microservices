@@ -23,5 +23,5 @@ public class Customer {
     private String address;
 
     @Field
-    private int age;
+    private Integer age;
 }
