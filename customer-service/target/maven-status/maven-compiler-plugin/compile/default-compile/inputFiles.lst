@@ -1,6 +1,0 @@
-/Users/riyadhosen/IUT/6th Semester/SDA Lab/Lab_3/microservices/customer-service/src/main/java/com/example/customer_service/CustomerServiceApplication.java
-/Users/riyadhosen/IUT/6th Semester/SDA Lab/Lab_3/microservices/customer-service/src/main/java/com/example/customer_service/config/SecurityConfig.java
-/Users/riyadhosen/IUT/6th Semester/SDA Lab/Lab_3/microservices/customer-service/src/main/java/com/example/customer_service/controllers/CustomerController.java
-/Users/riyadhosen/IUT/6th Semester/SDA Lab/Lab_3/microservices/customer-service/src/main/java/com/example/customer_service/models/Customer.java
-/Users/riyadhosen/IUT/6th Semester/SDA Lab/Lab_3/microservices/customer-service/src/main/java/com/example/customer_service/repositories/CustomerRepository.java
-/Users/riyadhosen/IUT/6th Semester/SDA Lab/Lab_3/microservices/customer-service/src/main/java/com/example/customer_service/services/CustomerService.java

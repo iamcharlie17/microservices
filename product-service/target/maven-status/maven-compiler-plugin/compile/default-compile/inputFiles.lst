@@ -1,6 +1,0 @@
-/Users/riyadhosen/IUT/6th Semester/SDA Lab/Lab_3/microservices/product-service/src/main/java/com/example/product_service/ProductServiceApplication.java
-/Users/riyadhosen/IUT/6th Semester/SDA Lab/Lab_3/microservices/product-service/src/main/java/com/example/product_service/config/SecurityConfig.java
-/Users/riyadhosen/IUT/6th Semester/SDA Lab/Lab_3/microservices/product-service/src/main/java/com/example/product_service/controllers/ProductController.java
-/Users/riyadhosen/IUT/6th Semester/SDA Lab/Lab_3/microservices/product-service/src/main/java/com/example/product_service/models/Product.java
-/Users/riyadhosen/IUT/6th Semester/SDA Lab/Lab_3/microservices/product-service/src/main/java/com/example/product_service/repositories/ProductRepository.java
-/Users/riyadhosen/IUT/6th Semester/SDA Lab/Lab_3/microservices/product-service/src/main/java/com/example/product_service/services/ProductService.java
